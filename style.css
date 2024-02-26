@@ -1,0 +1,18 @@
+body{
+    min-width: 300px;
+    background-color: rgb(237, 186, 119);
+}
+button{
+    border-radius: 6px;
+    border-style: ridge;
+    border-color: rgb(109, 176, 234);
+    border-width: 4px;
+}
+
+.center {
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+}

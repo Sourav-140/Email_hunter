@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Email Hunter",
+    "description":"Scraps emails from any web page",
+    "version": "1.0.1",
+    "action" : {
+        "default_popup": "popup.html",
+
+        "default_icon" : {
+
+            "16": "mail.png"
+        }
+    },
+    "permissions": ["activeTab","scripting"]
+}
